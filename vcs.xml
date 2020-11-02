@@ -34,6 +34,10 @@
           <option name="url" value="http://dev.digitaltim.de/vialantis/vialsite-react.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dev.digitaltim.de/shishatrip/shishatrip-frontend-nextjs" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/www" />
