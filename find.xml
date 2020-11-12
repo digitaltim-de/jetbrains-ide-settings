@@ -24,6 +24,7 @@
     <mask>*.yaml</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.tsx</mask>
     <mask>*.scss</mask>
   </component>
 </application>
