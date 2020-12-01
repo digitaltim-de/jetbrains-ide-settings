@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/juliomrqz/statusfy.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.digitaltim.de/health/checker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/www" />
